@@ -1,4 +1,5 @@
 {
+  
   "name": "conexao-sql-server",
   "version": "1.0.0",
   "description": "",
@@ -8,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tedious": "^18.1.0"
+  }
 }
